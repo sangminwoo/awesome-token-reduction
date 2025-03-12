@@ -1,8 +1,21 @@
-# 🧩 Awesome Token Reduction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of up-to-date papers on **token + {reduction, pruning, merging, compression, sparsification}** in transformers, large language models, large vision-language models, diffusion models, *etc*.
+# 🧩 Awesome Token Redundancy Reduction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of up-to-date papers on **token + {pruning, merging, reduction, compression, sparsification, etc.}** in:
+- Transformers
+- Vision Transformers (ViTs)
+- Large Language Models (LLMs)
+- Large Vision Language Models (LVLMs)
+- Video Large Language Models (VideoLLMs)
+- Diffusion Models
+- State Space Models (SSMs), Mamba
+- *etc.*
 
 
 ## 2025
+- **QuoTA**: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension <a href="https://arxiv.org/abs/2503.08689"><img src="https://img.shields.io/badge/arXiv-2503.08689-b31b1b?logo=arxiv" height="16"></a> <a href="https://github.com/MAC-AutoML/QuoTA"><img src="https://img.shields.io/github/stars/MAC-AutoML/QuoTA?label=QuoTA&logo=github&style=flat-square" height="16"></a>
+- **Layton**: Latent Consistency Tokenizer for 1024-pixel Image Reconstruction and Generation by 256 Tokens <a href="https://arxiv.org/abs/2503.08377"><img src="https://img.shields.io/badge/arXiv-2503.08377-b31b1b?logo=arxiv" height="16"></a>
+- **Multi-Cue Adaptive Visual Token Pruning** for Large Vision-Language Models <a href="https://arxiv.org/abs/2503.08019"><img src="https://img.shields.io/badge/arXiv-2503.08019-b31b1b?logo=arxiv" height="16"></a> <a href="https://github.com/bzluan/AdaptPrune"><img src="https://img.shields.io/github/stars/bzluan/AdaptPrune?label=AdaptPrune&logo=github&style=flat-square" height="16"></a>
+- **When Large Vision-Language Model Meets Large Remote Sensing Imagery**: Coarse-to-Fine Text-Guided Token Pruning <a href="https://arxiv.org/pdf/2503.07588"><img src="https://img.shields.io/badge/arXiv-2503.07588-b31b1b?logo=arxiv" height="16"></a> <a href="https://github.com/VisionXLab/LRS-VQA"><img src="https://img.shields.io/github/stars/VisionXLab/LRS-VQA?label=LRS-VQA&logo=github&style=flat-square" height="16"></a>
+- **Silent Hazards of Token Reduction** in Vision-Language Models: The Hidden Impact on Consistency <a href="https://arxiv.org/abs/2503.06794"><img src="https://img.shields.io/badge/arXiv-2503.06794-b31b1b?logo=arxiv" height="16"></a>
 - **Sketch-of-Thought**: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching <a href="https://arxiv.org/abs/2503.05179"><img src="https://img.shields.io/badge/arXiv-2503.05179-b31b1b?logo=arxiv" height="16"></a> <a href="https://github.com/SimonAytes/SoT"><img src="https://img.shields.io/github/stars/SimonAytes/SoT?label=SoT&logo=github&style=flat-square" height="16"></a>
 - **ToFu**: Visual Tokens Reduction via Fusion for Multi-modal, Multi-patch, Multi-image Task <a href="https://arxiv.org/abs/2503.04444"><img src="https://img.shields.io/badge/arXiv-2503.04444-b31b1b?logo=arxiv" height="16"></a>
 - **Token-Efficient** Long Video Understanding for Multimodal LLMs <a href="https://arxiv.org/abs/2503.04130"><img src="https://img.shields.io/badge/arXiv-2503.04130-b31b1b?logo=arxiv" height="16"></a> <a href="https://research.nvidia.com/labs/lpr/storm"><img src="https://img.shields.io/badge/Project-storm-yellow" height="16"></a> 
